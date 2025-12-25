@@ -1,6 +1,6 @@
 # Virtual environment
 venv/
-
+venv/310
 # Dataset
 data/
 
@@ -11,3 +11,5 @@ data/
 __pycache__/
 *.pyc
 
+# OS
+.DS_Store
